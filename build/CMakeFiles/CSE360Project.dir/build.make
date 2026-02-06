@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/joh2381113/CSE360Project
+CMAKE_SOURCE_DIR = /home/joh2381113/CSE360_HW1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/joh2381113/CSE360Project/build
+CMAKE_BINARY_DIR = /home/joh2381113/CSE360_HW1/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CSE360Project.dir/depend.make
@@ -70,37 +70,37 @@ include CMakeFiles/CSE360Project.dir/progress.make
 include CMakeFiles/CSE360Project.dir/flags.make
 
 CMakeFiles/CSE360Project.dir/Main.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
-CMakeFiles/CSE360Project.dir/Main.cpp.o: /home/joh2381113/CSE360Project/Main.cpp
+CMakeFiles/CSE360Project.dir/Main.cpp.o: /home/joh2381113/CSE360_HW1/Main.cpp
 CMakeFiles/CSE360Project.dir/Main.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSE360Project.dir/Main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/Main.cpp.o -MF CMakeFiles/CSE360Project.dir/Main.cpp.o.d -o CMakeFiles/CSE360Project.dir/Main.cpp.o -c /home/joh2381113/CSE360Project/Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSE360Project.dir/Main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/Main.cpp.o -MF CMakeFiles/CSE360Project.dir/Main.cpp.o.d -o CMakeFiles/CSE360Project.dir/Main.cpp.o -c /home/joh2381113/CSE360_HW1/Main.cpp
 
 CMakeFiles/CSE360Project.dir/Main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CSE360Project.dir/Main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/CSE360Project/Main.cpp > CMakeFiles/CSE360Project.dir/Main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/CSE360_HW1/Main.cpp > CMakeFiles/CSE360Project.dir/Main.cpp.i
 
 CMakeFiles/CSE360Project.dir/Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CSE360Project.dir/Main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/CSE360Project/Main.cpp -o CMakeFiles/CSE360Project.dir/Main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/CSE360_HW1/Main.cpp -o CMakeFiles/CSE360Project.dir/Main.cpp.s
 
 CMakeFiles/CSE360Project.dir/MainComponent.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
-CMakeFiles/CSE360Project.dir/MainComponent.cpp.o: /home/joh2381113/CSE360Project/MainComponent.cpp
+CMakeFiles/CSE360Project.dir/MainComponent.cpp.o: /home/joh2381113/CSE360_HW1/MainComponent.cpp
 CMakeFiles/CSE360Project.dir/MainComponent.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CSE360Project.dir/MainComponent.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/MainComponent.cpp.o -MF CMakeFiles/CSE360Project.dir/MainComponent.cpp.o.d -o CMakeFiles/CSE360Project.dir/MainComponent.cpp.o -c /home/joh2381113/CSE360Project/MainComponent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CSE360Project.dir/MainComponent.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/MainComponent.cpp.o -MF CMakeFiles/CSE360Project.dir/MainComponent.cpp.o.d -o CMakeFiles/CSE360Project.dir/MainComponent.cpp.o -c /home/joh2381113/CSE360_HW1/MainComponent.cpp
 
 CMakeFiles/CSE360Project.dir/MainComponent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CSE360Project.dir/MainComponent.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/CSE360Project/MainComponent.cpp > CMakeFiles/CSE360Project.dir/MainComponent.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/CSE360_HW1/MainComponent.cpp > CMakeFiles/CSE360Project.dir/MainComponent.cpp.i
 
 CMakeFiles/CSE360Project.dir/MainComponent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CSE360Project.dir/MainComponent.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/CSE360Project/MainComponent.cpp -o CMakeFiles/CSE360Project.dir/MainComponent.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/CSE360_HW1/MainComponent.cpp -o CMakeFiles/CSE360Project.dir/MainComponent.cpp.s
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o: /home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.o -c /home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.i: cmake_force
@@ -114,7 +114,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_extra/juce_gu
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o: /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.o -c /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.i: cmake_force
@@ -128,7 +128,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_gui_basics/juce_g
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp.i: cmake_force
@@ -142,7 +142,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_gra
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.i: cmake_force
@@ -156,7 +156,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_gra
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.i: cmake_force
@@ -170,7 +170,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_gra
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o: /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.o -c /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_events.cpp.i: cmake_force
@@ -184,7 +184,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_events/juce_event
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o: /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.i: cmake_force
@@ -198,7 +198,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o: /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.i: cmake_force
@@ -212,7 +212,7 @@ CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_Co
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o: CMakeFiles/CSE360Project.dir/flags.make
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o: /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o: CMakeFiles/CSE360Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o -MF CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o.d -o CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o -c /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp
 
 CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.i: cmake_force
@@ -255,7 +255,7 @@ CSE360Project_artefacts/CSE360\ Project: CMakeFiles/CSE360Project.dir/build.make
 CSE360Project_artefacts/CSE360\ Project: /usr/lib/x86_64-linux-gnu/libfontconfig.so
 CSE360Project_artefacts/CSE360\ Project: /usr/lib/x86_64-linux-gnu/libfreetype.so
 CSE360Project_artefacts/CSE360\ Project: CMakeFiles/CSE360Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable \"CSE360Project_artefacts/CSE360 Project\""
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable \"CSE360Project_artefacts/CSE360 Project\""
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CSE360Project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -267,6 +267,6 @@ CMakeFiles/CSE360Project.dir/clean:
 .PHONY : CMakeFiles/CSE360Project.dir/clean
 
 CMakeFiles/CSE360Project.dir/depend:
-	cd /home/joh2381113/CSE360Project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/joh2381113/CSE360Project /home/joh2381113/CSE360Project /home/joh2381113/CSE360Project/build /home/joh2381113/CSE360Project/build /home/joh2381113/CSE360Project/build/CMakeFiles/CSE360Project.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/joh2381113/CSE360_HW1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/joh2381113/CSE360_HW1 /home/joh2381113/CSE360_HW1 /home/joh2381113/CSE360_HW1/build /home/joh2381113/CSE360_HW1/build /home/joh2381113/CSE360_HW1/build/CMakeFiles/CSE360Project.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/CSE360Project.dir/depend
 

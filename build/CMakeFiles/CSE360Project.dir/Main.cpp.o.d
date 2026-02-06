@@ -1,6 +1,6 @@
 CMakeFiles/CSE360Project.dir/Main.cpp.o: \
- /home/joh2381113/CSE360Project/Main.cpp /usr/include/stdc-predef.h \
- /home/joh2381113/CSE360Project/MainComponent.h \
+ /home/joh2381113/CSE360_HW1/Main.cpp /usr/include/stdc-predef.h \
+ /home/joh2381113/CSE360_HW1/MainComponent.h \
  /home/joh2381113/JUCE/modules/juce_gui_extra/juce_gui_extra.h \
  /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.h \
  /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.h \

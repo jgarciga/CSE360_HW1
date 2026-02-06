@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide/cmake_install.cmake")
+  include("/home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide/cmake_install.cmake")
 endif()
 

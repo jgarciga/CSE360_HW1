@@ -43,6 +43,6 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/JUCE-8.0.12" TYPE PROGRAM FILES "/home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide/juceaide_artefacts/Custom/juceaide")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin/JUCE-8.0.12" TYPE PROGRAM FILES "/home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide/juceaide_artefacts/Custom/juceaide")
 endif()
 

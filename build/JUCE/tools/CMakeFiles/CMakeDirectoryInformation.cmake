@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/joh2381113/JUCE")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/joh2381113/CSE360Project/build/JUCE/tools")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/joh2381113/CSE360_HW1/build/JUCE/tools")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

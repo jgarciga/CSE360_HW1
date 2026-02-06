@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/joh2381113/CSE360Project
+CMAKE_SOURCE_DIR = /home/joh2381113/CSE360_HW1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/joh2381113/CSE360Project/build
+CMAKE_BINARY_DIR = /home/joh2381113/CSE360_HW1/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -146,14 +146,14 @@ JUCE/modules/clean:
 CMakeFiles/CSE360Project.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CSE360Project.dir/build.make CMakeFiles/CSE360Project.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CSE360Project.dir/build.make CMakeFiles/CSE360Project.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/joh2381113/CSE360Project/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Built target CSE360Project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/joh2381113/CSE360_HW1/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Built target CSE360Project"
 .PHONY : CMakeFiles/CSE360Project.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CSE360Project.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/joh2381113/CSE360Project/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/joh2381113/CSE360_HW1/build/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CSE360Project.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/joh2381113/CSE360Project/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/joh2381113/CSE360_HW1/build/CMakeFiles 0
 .PHONY : CMakeFiles/CSE360Project.dir/rule
 
 # Convenience name for target.
@@ -172,7 +172,7 @@ CMakeFiles/CSE360Project.dir/clean:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	$(CMAKE_COMMAND) -P /home/joh2381113/CSE360Project/build/CMakeFiles/VerifyGlobs.cmake
+	$(CMAKE_COMMAND) -P /home/joh2381113/CSE360_HW1/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

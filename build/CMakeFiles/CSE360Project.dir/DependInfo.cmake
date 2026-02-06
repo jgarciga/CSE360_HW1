@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o" "gcc" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o.d"
-  "/home/joh2381113/CSE360Project/Main.cpp" "CMakeFiles/CSE360Project.dir/Main.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/Main.cpp.o.d"
-  "/home/joh2381113/CSE360Project/MainComponent.cpp" "CMakeFiles/CSE360Project.dir/MainComponent.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/MainComponent.cpp.o.d"
+  "/home/joh2381113/CSE360_HW1/Main.cpp" "CMakeFiles/CSE360Project.dir/Main.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/Main.cpp.o.d"
+  "/home/joh2381113/CSE360_HW1/MainComponent.cpp" "CMakeFiles/CSE360Project.dir/MainComponent.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/MainComponent.cpp.o.d"
   "/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core.cpp.o.d"
   "/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp.o.d"
   "/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o" "gcc" "CMakeFiles/CSE360Project.dir/home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp.o.d"

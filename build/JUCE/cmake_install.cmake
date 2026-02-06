@@ -44,18 +44,18 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/joh2381113/CSE360Project/build/JUCE/modules/cmake_install.cmake")
+  include("/home/joh2381113/CSE360_HW1/build/JUCE/modules/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/joh2381113/CSE360Project/build/JUCE/extras/Build/cmake_install.cmake")
+  include("/home/joh2381113/CSE360_HW1/build/JUCE/extras/Build/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/JUCE-8.0.12" TYPE FILE FILES
-    "/home/joh2381113/CSE360Project/build/JUCE/JUCEConfigVersion.cmake"
-    "/home/joh2381113/CSE360Project/build/JUCE/JUCEConfig.cmake"
+    "/home/joh2381113/CSE360_HW1/build/JUCE/JUCEConfigVersion.cmake"
+    "/home/joh2381113/CSE360_HW1/build/JUCE/JUCEConfig.cmake"
     "/home/joh2381113/JUCE/extras/Build/CMake/JUCECheckAtomic.cmake"
     "/home/joh2381113/JUCE/extras/Build/CMake/JUCEHelperTargets.cmake"
     "/home/joh2381113/JUCE/extras/Build/CMake/JUCEModuleSupport.cmake"

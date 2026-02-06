@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DJUCE_APPLICATION_NAME_STRING="\"CSE360 Project\"" -DJUCE_APPLICATION_VERSION_STRING=\"0.0.1\" -DJUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1 -DJUCE_MODULE_AVAILABLE_juce_core=1 -DJUCE_MODULE_AVAILABLE_juce_data_structures=1 -DJUCE_MODULE_AVAILABLE_juce_events=1 -DJUCE_MODULE_AVAILABLE_juce_graphics=1 -DJUCE_MODULE_AVAILABLE_juce_gui_basics=1 -DJUCE_MODULE_AVAILABLE_juce_gui_extra=1 -DJUCE_STANDALONE_APPLICATION=1 -DJUCE_USE_CURL=0 -DJUCE_WEB_BROWSER=0 -DLINUX=1 -DNDEBUG=1 -D_NDEBUG=1
 
-C_INCLUDES = -I/home/joh2381113/CSE360Project/build/CSE360Project_artefacts/JuceLibraryCode -I/home/joh2381113/JUCE/modules -I/usr/include/freetype2 -I/usr/include/libpng16
+C_INCLUDES = -I/home/joh2381113/CSE360_HW1/build/CSE360Project_artefacts/JuceLibraryCode -I/home/joh2381113/JUCE/modules -I/usr/include/freetype2 -I/usr/include/libpng16
 
 C_FLAGS = -Wall -Wextra -Wpedantic -Wstrict-aliasing -Wuninitialized -Wunused-parameter -Wsign-compare -Wsign-conversion -Wunreachable-code -Wcast-align -Wno-implicit-fallthrough -Wno-maybe-uninitialized -Wno-ignored-qualifiers -Wno-multichar -Wswitch-enum -Wredundant-decls -Wno-strict-overflow -Wshadow -Wfloat-equal -Wmissing-field-initializers
 
 CXX_DEFINES = -DJUCE_APPLICATION_NAME_STRING="\"CSE360 Project\"" -DJUCE_APPLICATION_VERSION_STRING=\"0.0.1\" -DJUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1 -DJUCE_MODULE_AVAILABLE_juce_core=1 -DJUCE_MODULE_AVAILABLE_juce_data_structures=1 -DJUCE_MODULE_AVAILABLE_juce_events=1 -DJUCE_MODULE_AVAILABLE_juce_graphics=1 -DJUCE_MODULE_AVAILABLE_juce_gui_basics=1 -DJUCE_MODULE_AVAILABLE_juce_gui_extra=1 -DJUCE_STANDALONE_APPLICATION=1 -DJUCE_USE_CURL=0 -DJUCE_WEB_BROWSER=0 -DLINUX=1 -DNDEBUG=1 -D_NDEBUG=1
 
-CXX_INCLUDES = -I/home/joh2381113/CSE360Project/build/CSE360Project_artefacts/JuceLibraryCode -I/home/joh2381113/JUCE/modules -I/usr/include/freetype2 -I/usr/include/libpng16
+CXX_INCLUDES = -I/home/joh2381113/CSE360_HW1/build/CSE360Project_artefacts/JuceLibraryCode -I/home/joh2381113/JUCE/modules -I/usr/include/freetype2 -I/usr/include/libpng16
 
 CXX_FLAGS = -Wall -Wextra -Wpedantic -Wstrict-aliasing -Wuninitialized -Wunused-parameter -Wsign-compare -Wsign-conversion -Wunreachable-code -Wcast-align -Wno-implicit-fallthrough -Wno-maybe-uninitialized -Wno-ignored-qualifiers -Wno-multichar -Wswitch-enum -Wredundant-decls -Wno-strict-overflow -Wshadow -Wfloat-equal -Wmissing-field-initializers -Woverloaded-virtual -Wreorder -Wzero-as-null-pointer-constant
 

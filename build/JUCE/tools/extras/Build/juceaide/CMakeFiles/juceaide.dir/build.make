@@ -56,7 +56,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/joh2381113/JUCE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/joh2381113/CSE360Project/build/JUCE/tools
+CMAKE_BINARY_DIR = /home/joh2381113/CSE360_HW1/build/JUCE/tools
 
 # Include any dependencies generated for this target.
 include extras/Build/juceaide/CMakeFiles/juceaide.dir/depend.make
@@ -72,142 +72,142 @@ include extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o: /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o -MF CMakeFiles/juceaide.dir/Main.cpp.o.d -o CMakeFiles/juceaide.dir/Main.cpp.o -c /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o -MF CMakeFiles/juceaide.dir/Main.cpp.o.d -o CMakeFiles/juceaide.dir/Main.cpp.o -c /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/Main.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp > CMakeFiles/juceaide.dir/Main.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp > CMakeFiles/juceaide.dir/Main.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/Main.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp -o CMakeFiles/juceaide.dir/Main.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/extras/Build/juceaide/Main.cpp -o CMakeFiles/juceaide.dir/Main.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o: /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o -MF CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o.d -o CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o -c /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o -MF CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o.d -o CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o -c /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp > CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp > CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp -o CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/extras/Build/juce_build_tools/juce_build_tools.cpp -o CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o: /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o -c /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o -c /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.o -c /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c > CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/joh2381113/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o: /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o -c /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o -c /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_events/juce_events.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o: /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_core/juce_core.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o: /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.o -c /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_core/juce_core_CompilationTime.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.s
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/flags.make
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o: /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o: extras/Build/juceaide/CMakeFiles/juceaide.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o -c /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o -MF CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o.d -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o -c /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.i"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.i
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp > CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.i
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.s"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.s
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joh2381113/JUCE/modules/juce_data_structures/juce_data_structures.cpp -o CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.s
 
 # Object files for target juceaide
 juceaide_OBJECTS = \
@@ -239,18 +239,18 @@ extras/Build/juceaide/juceaide_artefacts/Custom/juceaide: extras/Build/juceaide/
 extras/Build/juceaide/juceaide_artefacts/Custom/juceaide: /usr/lib/x86_64-linux-gnu/libfontconfig.so
 extras/Build/juceaide/juceaide_artefacts/Custom/juceaide: /usr/lib/x86_64-linux-gnu/libfreetype.so
 extras/Build/juceaide/juceaide_artefacts/Custom/juceaide: extras/Build/juceaide/CMakeFiles/juceaide.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/joh2381113/CSE360Project/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable juceaide_artefacts/Custom/juceaide"
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/juceaide.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/joh2381113/CSE360_HW1/build/JUCE/tools/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable juceaide_artefacts/Custom/juceaide"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/juceaide.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 extras/Build/juceaide/CMakeFiles/juceaide.dir/build: extras/Build/juceaide/juceaide_artefacts/Custom/juceaide
 .PHONY : extras/Build/juceaide/CMakeFiles/juceaide.dir/build
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/clean:
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide && $(CMAKE_COMMAND) -P CMakeFiles/juceaide.dir/cmake_clean.cmake
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide && $(CMAKE_COMMAND) -P CMakeFiles/juceaide.dir/cmake_clean.cmake
 .PHONY : extras/Build/juceaide/CMakeFiles/juceaide.dir/clean
 
 extras/Build/juceaide/CMakeFiles/juceaide.dir/depend:
-	cd /home/joh2381113/CSE360Project/build/JUCE/tools && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/joh2381113/JUCE /home/joh2381113/JUCE/extras/Build/juceaide /home/joh2381113/CSE360Project/build/JUCE/tools /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide /home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide/CMakeFiles/juceaide.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/joh2381113/CSE360_HW1/build/JUCE/tools && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/joh2381113/JUCE /home/joh2381113/JUCE/extras/Build/juceaide /home/joh2381113/CSE360_HW1/build/JUCE/tools /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide /home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide/CMakeFiles/juceaide.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : extras/Build/juceaide/CMakeFiles/juceaide.dir/depend
 

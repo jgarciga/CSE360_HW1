@@ -52,7 +52,7 @@ add_executable(juce_tools::juceaide IMPORTED)
 # Import target "juce_tools::juceaide" for configuration "Custom"
 set_property(TARGET juce_tools::juceaide APPEND PROPERTY IMPORTED_CONFIGURATIONS CUSTOM)
 set_target_properties(juce_tools::juceaide PROPERTIES
-  IMPORTED_LOCATION_CUSTOM "/home/joh2381113/CSE360Project/build/JUCE/tools/extras/Build/juceaide/juceaide_artefacts/Custom/juceaide"
+  IMPORTED_LOCATION_CUSTOM "/home/joh2381113/CSE360_HW1/build/JUCE/tools/extras/Build/juceaide/juceaide_artefacts/Custom/juceaide"
   )
 
 # This file does not depend on other imported targets which have
