@@ -1,6 +1,5 @@
 #include "MainComponent.h"
 
-//==============================================================================
 MainComponent::MainComponent()
 {
     setSize (600, 400);
@@ -96,6 +95,6 @@ void MainComponent::menuItemSelected (int menuItemID, int topLevelMenuIndex)
     {
         juce::AlertWindow::showMessageBoxAsync (juce::AlertWindow::InfoIcon,
                                                 "About",
-                                                "CSE360 Project by John Doe");
+                                                "CSE360 Project by Johnny Garciga");
     }
 }

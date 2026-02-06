@@ -1185,3 +1185,40 @@ events:
         
       exitCode: 2
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/home/joh2381113/JUCE/extras/Build/CMake/JUCECheckAtomic.cmake:73 (try_compile)"
+      - "/home/joh2381113/JUCE/extras/Build/CMake/JUCECheckAtomic.cmake:128 (_juce_create_atomic_target)"
+      - "/home/joh2381113/JUCE/extras/Build/CMake/JUCEModuleSupport.cmake:57 (include)"
+      - "/home/joh2381113/JUCE/CMakeLists.txt:50 (include)"
+    directories:
+      source: "/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp"
+      binary: "/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "compile_result"
+      cached: true
+      stdout: |
+        Change Dir: '/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9b036/fast
+        gmake[1]: Entering directory '/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp'
+        /usr/bin/gmake  -f CMakeFiles/cmTC_9b036.dir/build.make CMakeFiles/cmTC_9b036.dir/build
+        gmake[2]: Entering directory '/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp'
+        Building CXX object CMakeFiles/cmTC_9b036.dir/check_atomic_vmq0LGinYgfteADq.cpp.o
+        /usr/bin/c++   -std=c++17 -o CMakeFiles/cmTC_9b036.dir/check_atomic_vmq0LGinYgfteADq.cpp.o -c /home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_vmq0LGinYgfteADq.cpp
+        Linking CXX executable cmTC_9b036
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9b036.dir/link.txt --verbose=1
+        /usr/bin/c++ CMakeFiles/cmTC_9b036.dir/check_atomic_vmq0LGinYgfteADq.cpp.o -o cmTC_9b036 
+        gmake[2]: Leaving directory '/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp'
+        gmake[1]: Leaving directory '/home/joh2381113/CSE360_HW1/build/JUCE/check_atomic_dir_AqatOlk6DXslyPKW/CMakeFiles/CMakeTmp'
+        
+      exitCode: 0
+...
